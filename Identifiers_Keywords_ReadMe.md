@@ -38,18 +38,38 @@ Try:
 6. Similarly, you cannot use symbols such as @, #, and so on.
 
 Here are some valid identifiers:
+
+
 -score
+
+
 -level
+
+
 -highestScore
+
+
 -number1
+
+
 -convertToString
 
 
 Here are some invalid identifiers:
+
+
 -class
+
+
 -float
+
+
 -1number
+
+
 -highest Score
+
+
 -@pple
 
 
